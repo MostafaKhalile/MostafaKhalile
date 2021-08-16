@@ -64,11 +64,11 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
+  <a href="https://sass-lang.com/" target="_blank"> 
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
    &emsp;
-  <a href="#" target="_blank"> 
+  <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
 </p>
