@@ -101,7 +101,7 @@
   </a></p>
   <p>
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&theme=blue-green"/>
+    <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&&show_icons=true"/>
   </a>
   </p>
   </section>
