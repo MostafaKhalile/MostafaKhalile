@@ -97,7 +97,7 @@
   <p>
   &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Sass" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhalile&&show_icons=true"/>
+    <img alt="Sass" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhalile&&theme=dark"/>
   </a></p>
   <p>
   <a href="https://getbootstrap.com" target="_blank"> 
