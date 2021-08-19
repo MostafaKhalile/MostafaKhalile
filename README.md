@@ -96,12 +96,12 @@
  <section>
   <p>
   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Sass" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhalile&&theme=dark"/>
+  <a href="https://github.com/MostafaKhalile" target="_blank"> 
+    <img alt="Sass" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhalile&theme=dark"/>
   </a></p>
   <p>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&&show_icons=true"/>
+  <a href="https://github.com/MostafaKhalile" target="_blank"> 
+    <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&theme=dark"/>
   </a>
   </p>
   </section>
