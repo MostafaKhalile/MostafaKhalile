@@ -93,7 +93,7 @@
   </a>
   </p>
   
- <section>
+
   <p>
   &emsp;
   <a href="https://github.com/MostafaKhalile" target="_blank"> 
@@ -104,7 +104,7 @@
     <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&theme=dark"/>
   </a>
   </p>
-  </section>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
