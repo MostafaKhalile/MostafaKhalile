@@ -9,7 +9,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TDD,Clean Archeticture,ReactNative
+- 🔭 &nbsp; I’m currently learning TDD, CI/CD, Clean Archeticture,ReactNative
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Geek For Computer Science, Data Science and Mathematics.
 - 💼 &nbsp; Mobile developer and front-end web developer.
