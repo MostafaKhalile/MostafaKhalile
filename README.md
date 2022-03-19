@@ -94,21 +94,13 @@
   </p>
   
 
-  <p>
-  &emsp;
-  <a href="https://github.com/MostafaKhalile" target="_blank"> 
-    <img alt="Sass" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhalile&theme=dark"/>
-  </a></p>
-  <p>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafaKhalile&theme=dark)](https://git.io/streak-stats)
-  </p>
-
  <p>
   <a href="https://github.com/MostafaKhalile" target="_blank"> 
     <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&theme=dark"/>
   </a>
   </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MostafaKhalile&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
