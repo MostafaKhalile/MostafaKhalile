@@ -104,7 +104,8 @@
     <img alt="Sass" src="https://github-readme-stats.vercel.app/api?username=MostafaKhalile&theme=dark"/>
   </a>
   </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MostafaKhalile&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafaKhalile)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
